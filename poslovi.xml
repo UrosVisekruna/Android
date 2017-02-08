@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <array name="Poslovi">
+        <item>Automobil</item>
+        <item>Kamion</item>
+        <item>Tepih</item>
+        <item>Namestaj</item>
+        <item>Ostale usluge</item>
+    </array>
+
+
+
+</resources>
